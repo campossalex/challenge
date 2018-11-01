@@ -14,6 +14,7 @@ Tabla: product_transaction
 Motor: MySQL  
 
 2. Logs de acceso de Apache Web Server:  
+http://34.205.65.241/access.log  
 
 3. Regex para SerDe en Hive:  
 `^(\\S+) \\S+ \\S+ \\[([^\\[]+)\\] "(\\w+) (\\S+) (\\S+)" (\\d+) (\\d+) "([^"]+)" "([^"]+)".*`  
