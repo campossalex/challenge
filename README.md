@@ -6,8 +6,8 @@ Usted deberá crear un pipeline completo, ingestando datos de una base de datos 
 
 1. Ingestar datos de las transacciones de la base de datos: 
 
-IP: 34.205.65.241 
-Puerto: 3306 
-Usuario: bootcamp 
-Contraseña: bootcamp 
+IP: 34.205.65.241  
+Puerto: 3306  
+Usuario: bootcamp  
+Contraseña: bootcamp  
 
