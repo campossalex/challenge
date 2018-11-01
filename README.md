@@ -16,6 +16,8 @@ Motor: MySQL
 2. Logs de acceso de Apache Web Server:  
 http://34.205.65.241/access.log  
 
+Columnas para tabla de logs: ip, time_local, method, uri, protocol, status, bytes_sent, referer, useragent
+
 3. Regex para SerDe en Hive:  
 `^(\\S+) \\S+ \\S+ \\[([^\\[]+)\\] "(\\w+) (\\S+) (\\S+)" (\\d+) (\\d+) "([^"]+)" "([^"]+)".*`  
 
