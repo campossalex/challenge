@@ -1,6 +1,6 @@
 # SEBC Final Challenge
 
-Bienvendio al Desafío Final del Bootcamp Cloudera. Lograte llegar a la última etapa :)  
+Bienvendio al Desafío Final del Bootcamp Cloudera. Lograste llegar a la última etapa :)  
 
 Usted deberá crear un pipeline completo, ingestando datos de una base de datos y archivos de access log de Apache. La idea es relacionar la información de navegación de la página web con las transacciones de ventas. 
 
@@ -15,7 +15,6 @@ Motor: MySQL
 
 2. Logs de acceso de Apache Web Server:  
 http://34.205.65.241/access.log  
-
 Columnas para tabla de logs: ip, time_local, method, uri, protocol, status, bytes_sent, referer, useragent
 
 3. Regex para SerDe en Hive:  
