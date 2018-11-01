@@ -1,6 +1,6 @@
 # SEBC Final Challenge
 
-Bienvendio al Desafío Final del Bootcamp Cloudera 
+Bienvendio al Desafío Final del Bootcamp Cloudera. Lograte llegar a la última etapa :)  
 
 Usted deberá crear un pipeline completo, ingestando datos de una base de datos y archivos de access log de Apache. La idea es relacionar la información de navegación de la página web con las transacciones de ventas. 
 
