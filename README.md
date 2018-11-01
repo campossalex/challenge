@@ -9,7 +9,7 @@ IP: 34.205.65.241
 Puerto: 3306  
 Usuario: bootcamp  
 Contraseña: bootcamp  
-Base de datos: ecommerce  
+Base de datos: ecommerce_cloudera  
 Tabla: product_transaction  
 Motor: MySQL  
 
@@ -24,7 +24,7 @@ IP: 34.205.65.241
 Puerto: 3306  
 Usuario: bootcamp  
 Contraseña: bootcamp  
-Base de datos: ecommerce  
+Base de datos: ecommerce_cloudera   
 Tabla: conversion_1 a conversion_14 (columnas: sku (VARCHAR(50), conversion (VARCHAR(50))  
 Motor: MySQL  
 
