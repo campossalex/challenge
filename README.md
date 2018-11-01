@@ -18,6 +18,15 @@ Motor: MySQL
 3. Regex para SerDe en Hive:  
 `^(\\S+) \\S+ \\S+ \\[([^\\[]+)\\] "(\\w+) (\\S+) (\\S+)" (\\d+) (\\d+) "([^"]+)" "([^"]+)".*`  
 
+4. Exportar la convesión por producto a una tabla:  
+IP: 34.205.65.241  
+Puerto: 3306  
+Usuario: bootcamp  
+Contraseña: bootcamp  
+Base de datos: ecommerce  
+Tabla: conversion_1 a conversion_14 (columnas: sku (VARCHAR(50), conversion (VARCHAR(50))  
+Motor: MySQL  
+
 ## Objetivo:
 
 Calcular la conversión de venta de cada sku.  
